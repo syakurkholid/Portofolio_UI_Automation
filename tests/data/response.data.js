@@ -17,3 +17,7 @@ export const dataFailed = {
 export const alertFileNotValid = {
   desc: "You are not allowed to upload files of this type.",
 };
+
+// export const dataUploadPict = {
+//   desc: "../docs/test.jpg",
+// };
